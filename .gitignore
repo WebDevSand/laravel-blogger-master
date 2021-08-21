@@ -1,0 +1,14 @@
+/bower_components
+/node_modules
+/public/storage
+/public/filemanager
+/public/tinymce
+/public/js/tinymce
+/public/images/avatars/*
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+*.DS_Store
+/tinymce
